@@ -3,6 +3,6 @@
 ## Default Credentials
 
 Username: test
-Password: testyarn 
+Password: test
 
 # jackchatapp-v1
